@@ -1,4 +1,6 @@
-y = 1 
+y = 1
 x = 2
 
 z = x + y
+
+funky<-"james brown"
